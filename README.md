@@ -1,6 +1,3 @@
-title: [Lucas Ezequiel´s Portfolio]
-description: [Civil Engineer and Data Science Practitioner]
-
 I´m a data science student focused on project development. Since the beggining of 2020 I´ve developed solutions for business problems such as predicting sales values, prediction clients in churn, classifying fraudulent transactions, clustering customer segmentation, predicting customer behaviour, etc. 
 
 In total, the projects I´ve developed so far acomplish a basic range of topics for an aspiring data scientist. Those are: regression problems, classification problems, clustering problems and ETL construction.
