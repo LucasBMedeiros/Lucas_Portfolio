@@ -1,5 +1,6 @@
-# Lucas_Portfolio
-<sub>*Civil Engineer and Data Science Practitioner*</sub>
+title: [Lucas Ezequiel´s Portfolio]
+description: [Civil Engineer and Data Science Practitioner]
+<sub>**</sub>
 
 I´m a data science student focused on project development. Since the beggining of 2020 I´ve developed solutions for business problems such as predicting sales values, prediction clients in churn, classifying fraudulent transactions, clustering customer segmentation, predicting customer behaviour, etc. 
 
