@@ -85,8 +85,8 @@ The company aims to expand its business, by following the given rules:
 
 5. Model´s performance on test set
 
-![](img/ROCcurve.png)
-![](img/precisionrecallcurve.png)
+![](img/fraud/ROCcurve.png)
+![](img/fraud/precisionrecallcurve.png)
 
 - 
 
