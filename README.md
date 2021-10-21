@@ -2,19 +2,6 @@ Civil Engineer and data science practitioner focused on project development. Sin
 
 In total, the projects I´ve developed so far acomplish a basic range of topics for an aspiring data scientist. Those are: regression problems, classification problems, clustering problems and ETL construction.
 
-### **Analytical Tools:**
-
-**Data Collect and Storage:** SQL, MySQL, web scraping, Google BigQuery.
-
-**Data Processing and Analysis:** Python, Spark.
-
-**Development:** Git, Linux. 
-
-**Data Vizualization:** Power BI.
-
-**Machine Learning Modeling:** Classification, Regression, Clustering. 
-
-**Machine Learning Deployment:** Flask, Heroku.
 
 **Find me at:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-medeiros-14a8a51a8/)
