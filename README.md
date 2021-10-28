@@ -26,36 +26,246 @@ In total, the projects I´ve developed so far acomplish a basic range of topics 
 * [![Medium Badge](https://img.shields.io/badge/M-Medium-lightgrey)](https://medium.com/@lucas.medeiross)
 
 
-## [Fraud Blocker](https://github.com/LucasBMedeiros/fraud_blocker)
+# [Fraudulent Financial Transactions Detector](https://github.com/LucasBMedeiros/fraud_blocker)
+
+## Business Problem
 
 
-## [Sales Prediction](https://github.com/LucasBMedeiros/rossmann-sales)
-
-## [AirBnb First Booking Prediction](https://github.com/LucasBMedeiros/airbnb_first_booking)
-
-## [Client Churn Prediction](https://github.com/LucasBMedeiros/churn_prediction)
-
-## [Stroke Prediction](https://github.com/LucasBMedeiros/stroke_prediction)
-
-## [Google BigQuery - Customer Segmentation]()
-
-## [Insiders Clustering]()
-
-## [Web Scraping and ETL for Product Pricing]()
+## Business Assumptions
 
 
+## Solution - Step by Step
+
+1. Data Collection
+2. Data Descrition and Cleaning
+3. Feature Engineering
+4. Filtering
+5. EDA (Exploratory Data Analysis)
+6. Data Preparation
+7. Feature Selection
+8. Machine Learning Modelling
+9. Hyper-parameter Fine Tuning
+
+## Model Performance
 
 
+## Business Impact
 
 
+## Deploy 
+
+# [AirBnb First Booking Prediction](https://github.com/LucasBMedeiros/airbnb_first_booking)
+
+## Business Problem
 
 
+## Business Assumptions
 
 
+## Solution - Step by Step
+
+1. Data Collection
+2. Data Descrition and Cleaning
+3. Feature Engineering
+4. Filtering
+5. EDA (Exploratory Data Analysis)
+6. Data Preparation
+7. Feature Selection
+8. Machine Learning Modelling
+9. Hyper-parameter Fine Tuning
+
+## Model Performance
 
 
+## Business Impact
 
 
+## Deploy 
+
+# [Insiders Clustering]()
+
+## Business Problem
 
 
+## Business Assumptions
+
+
+## Solution - Step by Step
+
+1. Data Collection
+2. Data Filtering
+3. Feature Engineering
+4. EDA (Exploratory Data Analysis)
+5. Data Preparation
+6. Feature Selection
+7. Hyperparameter Fine Tuning
+8. Model Training
+9. Cluster Analysis
+
+
+## Model Performance
+
+
+## Business Impact
+
+
+## Deploy 
+
+# [Rossmann Sales Prediction](https://github.com/LucasBMedeiros/rossmann-sales)
+
+## Business Problem
+
+
+## Business Assumptions
+
+
+## Solution - Step by Step
+
+1. Data Collection
+2. Data Descrition and Cleaning
+3. Feature Engineering
+4. Filtering
+5. EDA (Exploratory Data Analysis)
+6. Data Preparation
+7. Feature Selection
+8. Machine Learning Modelling
+9. Hyper-parameter Fine Tuning
+
+## Model Performance
+
+
+## Business Impact
+
+
+## Deploy 
+
+
+# [Health Insurance Cross Sell](https://github.com/LucasBMedeiros/health_insurance_cross-sell/tree/master/health_insurance_cross-sell)
+
+## Business Problem
+
+
+## Business Assumptions
+
+
+## Solution - Step by Step
+
+1. Data Collection
+2. Data Descrition and Cleaning
+3. Feature Engineering
+4. Filtering
+5. EDA (Exploratory Data Analysis)
+6. Data Preparation
+7. Feature Selection
+8. Machine Learning Modelling
+9. Hyper-parameter Fine Tuning
+
+## Model Performance
+
+
+## Business Impact
+
+
+## Deploy 
+
+
+# [Client Churn Prediction](https://github.com/LucasBMedeiros/churn_prediction)
+
+## Business Problem
+
+
+## Business Assumptions
+
+
+## Solution - Step by Step
+
+1. Data Collection
+2. Data Descrition and Cleaning
+3. Feature Engineering
+4. Filtering
+5. EDA (Exploratory Data Analysis)
+6. Data Preparation
+7. Feature Selection
+8. Machine Learning Modelling
+9. Hyper-parameter Fine Tuning
+
+## Model Performance
+
+
+## Business Impact
+
+
+## Deploy 
+
+# [Google BigQuery - Customer Segmentation]()
+
+## Business Problem
+
+
+## Business Assumptions
+
+
+## Solution - Step by Step
+
+1. Data Collection
+2. Data Descrition and Cleaning
+3. Feature Engineering
+4. Filtering
+5. EDA (Exploratory Data Analysis)
+6. Data Preparation
+7. Feature Selection
+8. Machine Learning Modelling
+9. Hyper-parameter Fine Tuning
+
+## Model Performance
+
+
+## Business Impact
+
+
+## Deploy 
+
+# [Stroke Prediction](https://github.com/LucasBMedeiros/stroke_prediction)
+
+## Business Problem
+
+
+## Business Assumptions
+
+
+## Solution - Step by Step
+
+1. Data Collection
+2. Data Descrition and Cleaning
+3. Feature Engineering
+4. Filtering
+5. EDA (Exploratory Data Analysis)
+6. Data Preparation
+7. Feature Selection
+8. Machine Learning Modelling
+9. Hyper-parameter Fine Tuning
+
+## Model Performance
+
+
+## Business Impact
+
+
+## Deploy 
+
+# [Web Scraping and ETL for Product Pricing]()
+
+## Business Problem
+
+
+## Business Assumptions
+
+
+## Solution - Step by Step
+
+1. Data Collection (Web Scraping)
+2. Data Descrition and Cleaning
+3. Feature Engineering
+4. Filtering
+5. EDA (Exploratory Data Analysis)
 
