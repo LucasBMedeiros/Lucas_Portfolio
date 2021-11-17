@@ -26,6 +26,89 @@ In total, the projects I´ve developed so far acomplish a basic range of topics 
 * [![Medium Badge](https://img.shields.io/badge/M-Medium-lightgrey)](https://medium.com/@lucas.medeiross)
 
 
+# [Insiders Clustering](https://github.com/LucasBMedeiros/insiders_clustering)
+
+## Business Problem
+
+A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The customers who make a purchase consume directly for themselves. There are small businesses that buy in bulk and sell to other customers through the retail outlet channel. The company needs to find significant customers for the business who make high purchases of their favourite products, with the intent of rolling out a loyalty program to the high-value customers after identification of segments. Use the clustering methodology to segment customers into groups.
+
+
+
+## Business Assumptions
+
+
+## Solution - Step by Step
+
+1. Data Collection
+2. Data Filtering
+3. Feature Engineering
+4. EDA (Exploratory Data Analysis)
+5. Data Preparation
+6. Feature Selection
+7. Hyperparameter Fine Tuning
+8. Model Training
+9. Cluster Analysis
+
+
+## EDA and Space Study
+
+![](img/insiders/pairplot.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+![](img/insiders/PCA.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+![](img/insiders/UMAP.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+![](img/insiders/t-SNE.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+![](img/insiders/embedding_PCA.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+![](img/insiders/embedding_UMAP.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+![](img/insiders/embedding_t-SNE.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+## Hyper Parameter Fine Tuning
+
+![](img/insiders/kmeans.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+![](img/insiders/GMM.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+![](img/insiders/hc.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+## Modelling
+
+![](img/insiders/clusters.png)
+:--:
+<b>Pairplot Analysis of dataset after feature engineering</b>
+
+# Cluster Analysis
+
+## 
+
+
+## Deploy 
+
+
+
 # [Fraudulent Financial Transactions Detector](https://github.com/LucasBMedeiros/fraud_blocker)
 
 ## Business Problem
@@ -82,34 +165,6 @@ In total, the projects I´ve developed so far acomplish a basic range of topics 
 
 ## Deploy 
 
-# [Insiders Clustering]()
-
-## Business Problem
-
-
-## Business Assumptions
-
-
-## Solution - Step by Step
-
-1. Data Collection
-2. Data Filtering
-3. Feature Engineering
-4. EDA (Exploratory Data Analysis)
-5. Data Preparation
-6. Feature Selection
-7. Hyperparameter Fine Tuning
-8. Model Training
-9. Cluster Analysis
-
-
-## Model Performance
-
-
-## Business Impact
-
-
-## Deploy 
 
 # [Rossmann Sales Prediction](https://github.com/LucasBMedeiros/rossmann-sales)
 
